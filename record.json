@@ -1,0 +1,18 @@
+{"groceries": [
+  {
+    "name": "detergent",
+    "price": "100",
+    "manufacture_date": "1 sept 2021",
+    "expiry_date": "1 sept 2022",
+    "available": "100"
+  },
+  {
+    "name": "soap",
+    "price": "50",
+    "manufacture_date": "1 sept 2021",
+    "expiry_date": "1 sept 2022",
+    "available": "100"
+  },
+  {"name": "Tooth Paste", "price": "60", "manufacture_date": "1 sept 2021", "expiry_date": "1 sept 2022", "available": "100"},
+  {"name": "Deo", "price": "40", "manufacture_date": "1 sept 2021", "expiry_date": "1 sept 2022", "available": "100"}],
+  "books": [{"name": "Anna Karenina", "price": "100", "publish_year": "1878", "author": "Leo Tolstoy", "available": "100"}, {"name": "The Great Gatsby", "price": "100", "publish_year": "1920", "author": "F. Scott Fitzgerald", "available": "100"}, {"name": "To Kill a Mockingbird", "price": "100", "publish_year": "1960", "author": "Harper Lee", "available": "100"}, {"name": "One Hundred Years Of Solitude", "price": "100", "publish_year": "1967", "author": "Gabriel Garcia Marquez", "available": "100"}], "furniture": [{"name": "almira", "price": "15000", "manufacture_year": "2020", "brand": "Godrej", "available": "100"}, {"name": "bed", "price": "40000", "manufacture_year": "2020", "brand": "Royaloak", "available": "100"}, {"name": "table", "price": "2000", "manufacture_year": "2021", "brand": "plywood", "available": "100"}, {"name": "chair", "price": "1000", "manufacture_year": "2021", "brand": "Nilkamal", "available": "100"}], "electronics": [{"name": "Refrigerator", "price": "15000", "manufacture_year": "2020", "brand": "samsung", "available": "100"}, {"name": "washing machine", "price": "20000", "manufacture_year": "2020", "brand": "L.G.", "available": "100"}, {"name": "T.V.", "price": "25000", "manufacture_year": "2021", "brand": "samsung", "available": "100"}, {"name": "Cooler", "price": "1000", "manufacture_year": "2021", "brand": "Symphony", "available": "100"}], "clothes": [{"name": "shirt", "price": "1500", "manufacture_year": "2020", "brand": "USPA", "available": "100"}, {"name": "Trouser", "price": "2000", "manufacture_year": "2020", "brand": "Allen Solly", "available": "100"}, {"name": "T-shirt", "price": "1000", "manufacture_year": "2021", "brand": "UCB", "available": "100"}, {"name": "Belt", "price": "1000", "manufacture_year": "2021", "brand": "peter england", "available": "100"}]}
